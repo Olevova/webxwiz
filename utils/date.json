@@ -1,0 +1,13 @@
+[
+{   "title":"cat",
+    "description": "bad cat",
+    "price": 100,
+    "photo": "/public/cardProduct.jpg"
+},
+{   "title":"pumpcack",
+    "description": "yummi",
+    "price": 100,
+    "photo":"/public/cardProduct.jpg"
+}
+
+]
